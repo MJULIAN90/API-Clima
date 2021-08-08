@@ -1,6 +1,6 @@
 
-<p align="center">
 ## Weather APP
+<p align="center">
 <img src="https://user-images.githubusercontent.com/76981775/128620157-2ea970f7-8cee-4808-89dc-8bcdd3bbc301.png" width="80%">
 </p>
 
