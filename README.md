@@ -1,15 +1,15 @@
 ## Weather APP
 
-
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/76981775/128620157-2ea970f7-8cee-4808-89dc-8bcdd3bbc301.png" width="80%">
-
+</p>
 
 
 Se desarrolló una *SPA* en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestion donde destaca principalmente su temperatura.
 
-<img src="https://user-images.githubusercontent.com/76981775/128620172-e6ab1531-7ec2-4ed3-837b-7f35830fa92f.png" width="80%">
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76981775/128620172-e6ab1531-7ec2-4ed3-837b-7f35830fa92f.png" width="80%" height='10%'>
+</p>
 
 ## Caracteristicas
 
@@ -25,7 +25,7 @@ En las consultas a la API además se puede consultar detalles del lugar tales co
 Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap y una API del clima llamada Weather API (https://openweathermap.org/api).
 
 
-<img src="https://user-images.githubusercontent.com/76981775/128620181-d1f2609e-64fd-4ffb-9a68-d9ee9251b5ab.png" width="80%">
+<img src="https://user-images.githubusercontent.com/76981775/128620181-d1f2609e-64fd-4ffb-9a68-d9ee9251b5ab.png" width="80%" height='10%'>
 
 
 ## Pasos para inicializar el proyecto (Se necesita tener instalado nodeJs):
