@@ -1,0 +1,38 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  background-color: transparent;
+  background-image: url("https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(0.4);
+}
+
+.card:hover {
+  box-shadow: 1px -1px 13px 4px rgba(0, 0, 0, 0.93);
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.card h5,
+p {
+  color: white;
+}
+
+.card .link {
+  text-decoration: none;
+}
