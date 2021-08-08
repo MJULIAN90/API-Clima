@@ -8,7 +8,7 @@
 Se desarrolló una *SPA* en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestion donde destaca principalmente su temperatura.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76981775/128620172-e6ab1531-7ec2-4ed3-837b-7f35830fa92f.png" width="80%" height='5%'>
+<img src="https://user-images.githubusercontent.com/76981775/128620172-e6ab1531-7ec2-4ed3-837b-7f35830fa92f.png" width="80%" height='100px'>
 </p>
 
 ## Caracteristicas
@@ -27,7 +27,7 @@ Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap 
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76981775/128620181-d1f2609e-64fd-4ffb-9a68-d9ee9251b5ab.png" width="80%" height='5%'>
+<img src="https://user-images.githubusercontent.com/76981775/128620181-d1f2609e-64fd-4ffb-9a68-d9ee9251b5ab.png" width="80%" height='100px'>
 </p>
 
 ## Pasos para inicializar el proyecto (Se necesita tener instalado nodeJs):
